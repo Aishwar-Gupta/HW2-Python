@@ -8,4 +8,6 @@ This repository includes:
 -calculator.py: Calculates the necessary operation on two numbers provided by the user.
 -timing.py : Decorator function to find the execution time of a passed function.
 
+For further description refer to the commit message for each files.
+
 To clone the project use : https://github.com/Aishwar-Gupta/HW2-Python.git
